@@ -4,7 +4,7 @@
       <img src="../assets/home.jpg">
     </div>
     <div class="desc">
-      <p class="title">A Better Place <br>To Work</p>
+      <p class="title">用技术创造价值<br>Hi Leader</p>
     </div>
     <div class="home_bottom">
       111
