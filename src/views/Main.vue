@@ -2,7 +2,7 @@
   <div class="main">
     <my-header class="main-header"></my-header>
     <router-view class="root"/>
-    <div class="footer">123123123123</div>
+    <footer class="footer">footer</footer>
   </div>
 </template>
 
@@ -20,7 +20,6 @@ export default {
   .main{
     position: relative;
     width: 100%;
-    height: 100%;
     .main-header{
       z-index: 1;
     }
@@ -29,7 +28,7 @@ export default {
       z-index: 0;
     }
     .footer{
-      .clearfix
+
     }
   }
 </style>
